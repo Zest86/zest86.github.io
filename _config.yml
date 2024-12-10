@@ -8,10 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-#title                    : "Rui Wang"
-#title_separator          : "-"
 #name                     : &name "王锐"
-#title                    : "Your Name / Site Title"
+title                    : "Rui Wang - 王锐"
 #title_separator          : "-"
 #name                     : &name "Your Name"
 #description              : &description "personal description"
