@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="text-align: center; font-weight: bold; font-size: 48pt;">Rui Wang- 王锐</h1>
+<h1 style="text-align: center; font-weight: bold; font-size: 32pt;">Rui Wang- 王锐</h1>
 ![My personal photo](/images/portfolio.jpg){: .align-right width="340px" height="220px"}    
 
 Hi there! I am currently a PhD candidate at [Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)](https://scs.bupt.edu.cn/) in Beijing, China, where I am advised by [Prof. Mengshi Qi](https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm). Before that, I received my M.S. degree in Electronic Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2023.
@@ -15,7 +15,7 @@ My research interests are centered around the intersection of computer vision an
 
 News
 ======
-* **[2024/12]** Our paper "VIoTGPT" was accepted by AAAI 2025
+* **[2024/12]** Our paper "VIoTGPT" was accepted by AAAI 2025!
 
 Research Highlight
 ======
