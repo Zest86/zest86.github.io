@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style="text-align: center; font-size: 24px; font-weight: bold;">Rui Wang - 王锐</p>
 
 ![My personal photo](/images/portfolio.jpg){: .align-right width="360px" height="220px"}    
 
