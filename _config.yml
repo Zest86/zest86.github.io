@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rui Wang"
-title_separator          : "-"
-name                     : &name "王锐"
+#title                    : "Rui Wang"
+#title_separator          : "-"
+#name                     : &name "王锐"
 #title                    : "Your Name / Site Title"
 #title_separator          : "-"
 #name                     : &name "Your Name"

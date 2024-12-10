@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![My personal photo](/images/portfolio.jpg){: .align-right width="380px" height="300px"}    
+![My personal photo](/images/portfolio.jpg){: .align-right width="360px" height="220px"}    
 
 Hi there! I am currently a PhD candidate at [Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)](https://scs.bupt.edu.cn/) in Beijing, China, where I am advised by [Prof. Mengshi Qi](https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm). Before that, I received my M.S. degree in Electronic Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2023.
 
@@ -16,6 +16,7 @@ My research interests are centered around the intersection of computer vision an
 
 News
 ======
+* **[2024/12]** Our paper "VIoTGPT" was accepted by AAAI 2025
 
 Research Highlight
 ======
@@ -23,15 +24,17 @@ Research Highlight
 
 Publications
 ======
+* VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things  
+  * Yaoyao zhong, Mengshi Qi, ***Rui Wang***, Yuhan Qiu, Yang Zhang, and Huadong Ma  
+  AAAI 2025 \[[paper](https://arxiv.org/pdf/2312.00401)\] \[[code]()\]
 * Unsupervised heart abnormality detection based on phonocardiogram analysis with beta variational auto-encoders  
   * Shengchen Li, Ke Tian, ***Rui Wang***  
   ICASSP 2021 \[[paper](https://ieeexplore.ieee.org/abstract/document/9414165)\]
 
+
 Preprints
 ======
-*   VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things  
-    * Yaoyao zhong, Mengshi Qi, ***Rui Wang***, Yuhan Qiu, Yang Zhang, and Huadong Ma  
-        arxiv 2023 \[[paper](https://arxiv.org/pdf/2312.00401)\] \[[code]()\]
+
 * Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation  
   * ***Rui Wang***, Mengshi Qi, Yingxia Shao, Anfu Zhou, Huadong Ma  
     arxiv 2024 \[[paper](https://arxiv.org/pdf/2408.08488)\] \[[code]()\]
