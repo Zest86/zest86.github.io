@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Rui Wang - 王锐"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Rui Wang - 王锐
+======
 ![My personal photo](/images/portfolio.jpg){: .align-right width="360px" height="220px"}    
 
 Hi there! I am currently a PhD candidate at [Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)](https://scs.bupt.edu.cn/) in Beijing, China, where I am advised by [Prof. Mengshi Qi](https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm). Before that, I received my M.S. degree in Electronic Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2023.
