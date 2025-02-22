@@ -10,7 +10,9 @@ redirect_from:
 
 <p style="text-align: justify;">
 Hi there! I am currently a PhD candidate at <a href="https://scs.bupt.edu.cn/" target="_blank">Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)</a> in Beijing, China, where I am advised by <a href="https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm" target="_blank">Prof. Mengshi Qi</a>. Before that, I received my M.S. degree in Electronic Engineering from <a href="https://www.bupt.edu.cn/" target="_blank">Beijing University of Posts and Telecommunications (BUPT)</a> in 2023.
-<br><br>
+</p>
+
+<p style="text-align: justify;">
 My research interests are centered around the intersection of computer vision and physics. I am particularly interested in developing algorithms that enable agents to perceive and understand the physical world around them. I am also interested in the application of these algorithms to real-world problems, such as health-care.
 </p>
 
