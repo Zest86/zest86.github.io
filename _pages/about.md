@@ -9,7 +9,7 @@ redirect_from:
 ![My personal photo](/images/portfolio.jpg){: .align-right width="340px" height="220px"}   
 
 <p style="text-align: justify;">
-Hi there! I am currently a PhD candidate at <a href="https://scs.bupt.edu.cn/" target="_blank">Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)</a> in Beijing, China, where I am advised by <a href="https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm" target="_blank">Prof. Mengshi Qi</a>. Before that, I received my M.S. degree in Electronic Engineering from <a href="https://www.bupt.edu.cn/" target="_blank">Beijing University of Posts and Telecommunications (BUPT)</a> in 2023. I did my bachelors at <a href="https://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University (HDU)</a> in 2012.
+Hi there! I am currently a PhD candidate at <a href="https://scs.bupt.edu.cn/" target="_blank">Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)</a> in Beijing, China, where I am advised by <a href="https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm" target="_blank">Prof. Mengshi Qi</a>. Before that, I received my M.S. degree in Electronic Engineering from <a href="https://www.bupt.edu.cn/" target="_blank">Beijing University of Posts and Telecommunications (BUPT)</a> in 2023. I did my bachelors at <a href="https://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University (HDU)</a> in 2020.
 </p>
 
 <p style="text-align: justify;">
