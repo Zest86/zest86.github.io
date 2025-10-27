@@ -18,6 +18,7 @@ My research interests are centered around the intersection of computer vision an
 
 News
 ======
+* **[2025/10]** Our paper "PITN" was accepted by IEEE TMC!
 * **[2024/12]** Our paper "VIoTGPT" was accepted by AAAI 2025 <b style="color:red;">(Oral)</b>!
 
 <!-- Research Highlight -->
@@ -26,25 +27,27 @@ News
 
 Publications
 ======
+* PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation  
+  * ***Rui Wang***, Mengshi Qi, Yingxia Shao, Anfu Zhou, Huadong Ma  
+    IEEE Transactions on Mobile Computing (TMC), 2025 \[[paper](https://arxiv.org/pdf/2408.08488)\] \[[code](https://github.com/Zest86/ACL-PITN/blob/main)\]
 * VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things  
   * Yaoyao zhong, Mengshi Qi, ***Rui Wang***, Yuhan Qiu, Yang Zhang, and Huadong Ma  
-  AAAI 2025 <b style="color:red;">(Oral presentation)</b> \[[paper](https://arxiv.org/pdf/2312.00401)\] \[[code]()\]
+  AAAI, 2025 <b style="color:red;">(Oral presentation)</b> \[[paper](https://arxiv.org/pdf/2312.00401)\] \[[code](https://github.com/zhongyy/VIoTGPT)\]
 * Unsupervised heart abnormality detection based on phonocardiogram analysis with beta variational auto-encoders  
   * Shengchen Li, Ke Tian, ***Rui Wang***  
-  ICASSP 2021 \[[paper](https://ieeexplore.ieee.org/abstract/document/9414165)\]
+  ICASSP, 2021 \[[paper](https://ieeexplore.ieee.org/abstract/document/9414165)\]
 
 
-Preprints
-======
+[//]: # (Preprints)
 
-* Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation  
-  * ***Rui Wang***, Mengshi Qi, Yingxia Shao, Anfu Zhou, Huadong Ma  
-    arxiv 2024 \[[paper](https://arxiv.org/pdf/2408.08488)\] \[[code]()\]
+[//]: # (======)
+
+
 
 Professional Services
 ======
 * Conference Reviewer:  
-    ACM MM, ECCV, ICME, ICMR  
+    ACM MM, ECCV, ICME, ICMR, AAAI
 
 <!-- Journal Reviewer -->
 
