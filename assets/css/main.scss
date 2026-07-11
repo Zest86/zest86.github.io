@@ -114,3 +114,18 @@
     gap: 4px;
   }
 }
+
+@include breakpoint($large) {
+  #main {
+    max-width: 1120px;
+  }
+
+  .page {
+    float: none;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
