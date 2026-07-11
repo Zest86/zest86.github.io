@@ -12,6 +12,11 @@ redirect_from:
 Hi there! I am currently a PhD candidate at <a href="https://scs.bupt.edu.cn/" target="_blank">Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)</a> in Beijing, China, where I am advised by <a href="https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm" target="_blank">Prof. Mengshi Qi</a>. Before that, I received my M.S. degree in Electronic Engineering from <a href="https://www.bupt.edu.cn/" target="_blank">Beijing University of Posts and Telecommunications (BUPT)</a> in 2023. I did my bachelors at <a href="https://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University (HDU)</a> in 2020.
 </p>
 
+<p style="text-align: center;">
+  <a href="mailto:wr@bupt.edu.cn">Email</a> /
+  <a href="https://scholar.google.com/citations?user=CnZ9I6EAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>
+</p>
+
 <p style="text-align: justify;">
 My research interests are centered around the intersection of computer vision and physics. I am particularly interested in developing algorithms that enable agents to perceive and understand the physical world around them. I am also interested in the application of these algorithms to real-world problems, such as health-care.
 </p>
@@ -48,14 +53,14 @@ News
 .publication-item {
   display: flex;
   align-items: flex-start;
-  gap: 18px;
-  margin: 24px 0;
+  gap: 22px;
+  margin: 26px 0;
 }
 
 .publication-teaser {
-  flex: 0 0 210px;
-  width: 210px;
-  height: 125px;
+  flex: 0 0 300px;
+  width: 300px;
+  height: 180px;
 }
 
 .publication-teaser img {
@@ -137,7 +142,7 @@ News
   </div>
   <div class="publication-info">
     <div class="publication-title">VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things</div>
-    <div class="publication-authors">Yaoyao Zhong, Mengshi Qi, <strong>Rui Wang</strong>, Yuhan Qiu, Yang Zhang, and Huadong Ma</div>
+    <div class="publication-authors">Yaoyao Zhong, Mengshi Qi, <strong>Rui Wang</strong>, Yuhan Qiu, Yang Zhang, Huadong Ma</div>
     <div class="publication-venue"><em>AAAI</em>, 2025 <b style="color:red;">(Oral presentation)</b></div>
     <div class="publication-links">[<a href="https://arxiv.org/pdf/2312.00401" target="_blank">paper</a>] [<a href="https://github.com/zhongyy/VIoTGPT" target="_blank">code</a>]</div>
   </div>

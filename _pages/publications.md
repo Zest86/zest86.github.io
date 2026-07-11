@@ -14,7 +14,7 @@ author_profile: true
   * *IEEE Transactions on Mobile Computing (TMC)*, 2025 \[[paper](https://arxiv.org/pdf/2408.08488)\] \[[code](https://github.com/Zest86/ACL-PITN/blob/main)\]
 
 * **VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things**
-  * Yaoyao Zhong, Mengshi Qi, ***Rui Wang***, Yuhan Qiu, Yang Zhang, and Huadong Ma
+  * Yaoyao Zhong, Mengshi Qi, ***Rui Wang***, Yuhan Qiu, Yang Zhang, Huadong Ma
   * *AAAI*, 2025 <b style="color:red;">(Oral presentation)</b> \[[paper](https://arxiv.org/pdf/2312.00401)\] \[[code](https://github.com/zhongyy/VIoTGPT)\]
 
 * **Unsupervised heart abnormality detection based on phonocardiogram analysis with beta variational auto-encoders**
