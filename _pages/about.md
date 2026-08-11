@@ -23,15 +23,52 @@ My research interests are centered around the intersection of computer vision an
 
 News
 ======
-* **[2026/07]** Our paper "VTO" was accepted by ACM MM 2026!
-* **[2025/10]** Our paper "PITN" was accepted by IEEE TMC!
-* **[2024/12]** Our paper "VIoTGPT" was accepted by AAAI 2025 <b style="color:red;">(Oral)</b>!
+<div class="news-scroll">
+  <ul>
+    <li><strong>[2026/07]</strong> Our paper "VTO" was accepted by ACM MM 2026!</li>
+    <li><strong>[2025/10]</strong> Our paper "PITN" was accepted by IEEE TMC!</li>
+    <li><strong>[2024/12]</strong> Our paper "VIoTGPT" was accepted by AAAI 2025 <b style="color:red;">(Oral)</b>!</li>
+  </ul>
+</div>
 
 <!-- Research Highlight -->
 
 
 
 <style>
+.news-scroll {
+  height: 118px;
+  overflow-y: scroll;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fafafa;
+  padding: 10px 14px;
+  margin: 0.5em 0 1.5em;
+}
+
+.news-scroll ul {
+  margin: 0;
+  padding-left: 1.35em;
+}
+
+.news-scroll li {
+  line-height: 1.5;
+  margin: 4px 0;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 10px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #9a9a9a;
+  border-radius: 8px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: #f0f0f0;
+}
+
 .selected-publications-heading {
   display: flex;
   align-items: baseline;
@@ -121,6 +158,7 @@ News
     <div class="publication-title">VTO: Visual Tool Orchestration for Video Anomaly Detection</div>
     <div class="publication-authors"><strong>Rui Wang</strong>, Yeteng Wu, Xianlin Zhang, Mengshi Qi</div>
     <div class="publication-venue"><em>ACM MM</em>, 2026</div>
+    <div class="publication-links">[<a href="https://arxiv.org/abs/2608.08219" target="_blank">paper</a>] [<a href="https://github.com/MICLAB-BUPT/VTO" target="_blank">code</a>]</div>
   </div>
 </div>
 
@@ -163,5 +201,3 @@ Professional Services
 
 
 <!-- Honors and Awards -->
-
-
