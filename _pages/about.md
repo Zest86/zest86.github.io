@@ -9,7 +9,7 @@ redirect_from:
 <img src="/images/portfolio.jpg" alt="My personal photo" class="align-right" style="float: right; width: 340px; height: 220px; object-fit: cover; margin-left: 20px;">
 
 <p style="text-align: justify;">
-Hi there! I am currently a PhD candidate at <a href="https://scs.bupt.edu.cn/" target="_blank">Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)</a> in Beijing, China, where I am advised by <a href="https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm" target="_blank">Prof. Mengshi Qi</a>. Before that, I received my M.S. degree in Electronic Engineering from <a href="https://www.bupt.edu.cn/" target="_blank">Beijing University of Posts and Telecommunications (BUPT)</a> in 2023. I did my bachelors at <a href="https://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University (HDU)</a> in 2020.
+Hi there! I am a PhD candidate at <a href="https://scs.bupt.edu.cn/" target="_blank">Department of Computer Science, Beijing University of Posts and Telecommunications (BUPT)</a> in Beijing, China, where I am advised by <a href="https://teacher.bupt.edu.cn/qimengshi/zh_CN/index.htm" target="_blank">Prof. Mengshi Qi</a>. Before that, I received my M.S. degree in Electronic Engineering from <a href="https://www.bupt.edu.cn/" target="_blank">Beijing University of Posts and Telecommunications (BUPT)</a> in 2023. I did my bachelors at <a href="https://www.hdu.edu.cn/" target="_blank">Hangzhou Dianzi University (HDU)</a> in 2020.
 </p>
 
 <p style="text-align: center;">
@@ -18,13 +18,14 @@ Hi there! I am currently a PhD candidate at <a href="https://scs.bupt.edu.cn/" t
 </p>
 
 <p style="text-align: justify;">
-My research interests are centered around the intersection of computer vision and physics. I am particularly interested in developing algorithms that enable agents to perceive and understand the physical world around them. I am also interested in the application of these algorithms to real-world problems, such as health-care.
+My research interests lie in Physical AI, with a focus on physical reasoning algorithms and intelligent systems for the physical world. I aim to develop algorithms and systems that enable agents to perceive, model, and predict the physical world.
 </p>
 
 News
 ======
 <div class="news-scroll">
   <ul>
+    <li><strong>[2026/08]</strong> Our paper "ExPhy" is now available on arXiv!</li>
     <li><strong>[2026/07]</strong> Our paper "VTO" was accepted by ACM MM 2026!</li>
     <li><strong>[2025/10]</strong> Our paper "PITN" was accepted by IEEE TMC!</li>
     <li><strong>[2024/12]</strong> Our paper "VIoTGPT" was accepted by AAAI 2025 <b style="color:red;">(Oral)</b>!</li>
@@ -148,6 +149,18 @@ News
 <div class="selected-publications-heading">
   <h1>Selected Publications</h1>
   <a href="/publications/">[View All Publications]</a>
+</div>
+
+<div class="publication-item">
+  <div class="publication-teaser">
+    <img src="/images/publications/ExPhy.png" alt="ExPhy teaser">
+  </div>
+  <div class="publication-info">
+    <div class="publication-title">ExPhy: A Benchmark for Explicit Physical Property Learning in Multi-Object Trajectory Forecasting</div>
+    <div class="publication-authors"><strong>Rui Wang</strong>, Yeteng Wu, Xianlin Zhang, Mengshi Qi</div>
+    <div class="publication-venue"><em>arXiv preprint</em>, 2026</div>
+    <div class="publication-links">[<a href="https://arxiv.org/abs/2608.20009" target="_blank">paper</a>] [<a href="https://github.com/Zest86/ExPhy" target="_blank">code</a>]</div>
+  </div>
 </div>
 
 <div class="publication-item">

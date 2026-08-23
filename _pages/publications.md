@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **ExPhy: A Benchmark for Explicit Physical Property Learning in Multi-Object Trajectory Forecasting**
+  * ***Rui Wang***, Yeteng Wu, Xianlin Zhang, Mengshi Qi
+  * *arXiv preprint arXiv:2608.20009*, 2026 \[[paper](https://arxiv.org/abs/2608.20009)\] \[[code](https://github.com/Zest86/ExPhy)\]
+
 * **VTO: Visual Tool Orchestration for Video Anomaly Detection**
   * ***Rui Wang***, Yeteng Wu, Xianlin Zhang, Mengshi Qi
   * *ACM MM*, 2026
