@@ -38,8 +38,8 @@ News
 
 <style>
 .news-scroll {
-  height: 118px;
-  overflow-y: scroll;
+  max-height: 180px;
+  overflow-y: auto;
   border: 1px solid #ddd;
   border-radius: 6px;
   background: #fafafa;
